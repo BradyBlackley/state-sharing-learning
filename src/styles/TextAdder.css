@@ -1,0 +1,21 @@
+.textAdder {
+    border: solid black 1px;
+    border-radius: 10px;
+    width: 25%;
+    margin-top: 15px;
+    margin-right: 37.5%;
+    margin-left: 37.5%;
+    padding: 15px;
+}
+
+.adderHeader {
+    text-align: center;
+}
+
+.adderLabel {
+    text-align: center;
+}
+
+.adderInput {
+    text-align: center;
+}

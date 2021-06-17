@@ -1,0 +1,22 @@
+.listHeader {
+    text-align: center;
+}
+
+.listItemHeader {
+    text-align: center;
+    
+}
+
+.listArea {
+    text-align: center;
+    border: solid black 1px;
+    border-radius: 10px;
+    margin-right: 25%;
+    margin-left: 25%;
+}
+
+.listArea, li {
+    list-style-type: none;
+    border: solid black 1px;
+    width: 50%;
+}
